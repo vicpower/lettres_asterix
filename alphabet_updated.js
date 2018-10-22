@@ -59,4 +59,5 @@ function PrintString(inputString) {
     console.log(wordString);
 }
 
-PrintString('I cannot believe it');
+PrintString('I cannot believe it'); //change this to have your own text!!
+//it appears that there is a sort of limit on the amount of characters node can run 
